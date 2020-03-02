@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aliceblue">#F0F8FF</color>
+    <color name="antiquewhite">#FAEBD7</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="aquamarine">#7FFFD4</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="base_color">#18b4ed</color>
+    <color name="base_color_press">#398e9a</color>
+    <color name="beige">#F5F5DC</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="black">#000000</color>
+    <color name="black1">#3d3d3d</color>
+    <color name="blanchedalmond">#FFEBCD</color>
+    <color name="blue">#0000FF</color>
+    <color name="blueviolet">#8A2BE2</color>
+    <color name="border_comp_icon">#ff88bbff</color>
+    <color name="bright_foreground_dark">#ffffffff</color>
+    <color name="bright_foreground_dark_disabled">#80ffffff</color>
+    <color name="bright_foreground_dark_inverse">#ff000000</color>
+    <color name="bright_foreground_light">#ff000000</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    <color name="bright_foreground_light_inverse">#ffffffff</color>
+    <color name="brown">#A52A2A</color>
+    <color name="burlywood">#DEB887</color>
+    <color name="cadetblue">#5F9EA0</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorProgress">#C0DEDF</color>
+    <color name="coral">#FF7F50</color>
+    <color name="cornflowerblue">#6495ED</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="crimson">#DC143C</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="darkblue">#00008B</color>
+    <color name="darkcyan">#008B8B</color>
+    <color name="darkgoldenrod">#B8860B</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="darkgreen">#006400</color>
+    <color name="darkkhaki">#BDB76B</color>
+    <color name="darkmagenta">#8B008B</color>
+    <color name="darkolivegreen">#556B2F</color>
+    <color name="darkorange">#FF8C00</color>
+    <color name="darkorchid">#9932CC</color>
+    <color name="darkred">#8B0000</color>
+    <color name="darksalmon">#E9967A</color>
+    <color name="darkseagreen">#8FBC8F</color>
+    <color name="darkslateblue">#483D8B</color>
+    <color name="darkslategray">#2F4F4F</color>
+    <color name="darkslategrey">#2F4F4F</color>
+    <color name="darkturquoise">#00CED1</color>
+    <color name="darkviolet">#9400D3</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="deepskyblue">#00BFFF</color>
+    <color name="dim_foreground_dark">#ffffffff</color>
+    <color name="dim_foreground_dark_disabled">#80bebebe</color>
+    <color name="dim_foreground_dark_inverse">#ff000000</color>
+    <color name="dim_foreground_dark_inverse_disabled">#80323232</color>
+    <color name="dim_foreground_light">#ff000000</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light_inverse">#ffbebebe</color>
+    <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    <color name="dimgray">#696969</color>
+    <color name="dimgrey">#696969</color>
+    <color name="dodgerblue">#1E90FF</color>
+    <color name="firebrick">#B22222</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="forestgreen">#228B22</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="g666666">#666666</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="ge6e6e6">#e6e6e6</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <color name="gold">#FFD700</color>
+    <color name="goldenrod">#DAA520</color>
+    <color name="gray">#808080</color>
+    <color name="gray_white">#10000000</color>
+    <color name="green">#008000</color>
+    <color name="greenyellow">#ADFF2F</color>
+    <color name="grey">#808080</color>
+    <color name="half_transparent">#b0000000</color>
+    <color name="hint_foreground_dark">#ff808080</color>
+    <color name="hint_foreground_light">#ff808080</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="hotpink">#FF69B4</color>
+    <color name="indianred">#CD5C5C</color>
+    <color name="indigo">#4B0082</color>
+    <color name="item_select">#EAEAEA</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="lavenderblush">#FFF0F5</color>
+    <color name="lawngreen">#7CFC00</color>
+    <color name="lemonchiffon">#FFFACD</color>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="lightcoral">#F08080</color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="lightgoldenrodyellow">#FAFAD2</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="lightgreen">#90EE90</color>
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="lightpink">#FFB6C1</color>
+    <color name="lightsalmon">#FFA07A</color>
+    <color name="lightseagreen">#20B2AA</color>
+    <color name="lightskyblue">#87CEFA</color>
+    <color name="lightslategray">#778899</color>
+    <color name="lightslategrey">#778899</color>
+    <color name="lightsteelblue">#B0C4DE</color>
+    <color name="lightyellow">#FFFFE0</color>
+    <color name="lime">#00FF00</color>
+    <color name="limegreen">#32CD32</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="list_devider">#ffffffff</color>
+    <color name="list_item_text2_color1">#ffcc0000</color>
+    <color name="list_item_text2_color2">#ff9096ae</color>
+    <color name="list_item_text_color">#ff32444d</color>
+    <color name="list_item_text_shadow_color">#ffffffff</color>
+    <color name="little_black">#b0000000</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="maroon">#800000</color>
+    <color name="mediumaquamarine">#66CDAA</color>
+    <color name="mediumblue">#0000CD</color>
+    <color name="mediumorchid">#BA55D3</color>
+    <color name="mediumpurple">#9370DB</color>
+    <color name="mediumseagreen">#3CB371</color>
+    <color name="mediumslateblue">#7B68EE</color>
+    <color name="mediumspringgreen">#00FA9A</color>
+    <color name="mediumturquoise">#48D1CC</color>
+    <color name="mediumvioletred">#C71585</color>
+    <color name="midnightblue">#191970</color>
+    <color name="mintcream">#F5FFFA</color>
+    <color name="mistyrose">#FFE4E1</color>
+    <color name="mo_hui">#999999</color>
+    <color name="mo_lv">#00b2ff</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="navajowhite">#FFDEAD</color>
+    <color name="navy">#000080</color>
+    <color name="news_page_title">#ff003399</color>
+    <color name="news_page_title_shadow">#ffffffff</color>
+    <color name="no_hui">#ccc</color>
+    <color name="num_bg">#698aa2</color>
+    <color name="num_bg_p">#1ea6d2</color>
+    <color name="ok_lv">#3ABAE4</color>
+    <color name="oldlace">#FDF5E6</color>
+    <color name="olive">#808000</color>
+    <color name="olivedrab">#6B8E23</color>
+    <color name="orange">#FFA500</color>
+    <color name="orangered">#FF4500</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="page_background">#fff1f1f1</color>
+    <color name="page_text_color">#ff000000</color>
+    <color name="palegoldenrod">#EEE8AA</color>
+    <color name="palegreen">#98FB98</color>
+    <color name="paleturquoise">#AFEEEE</color>
+    <color name="palevioletred">#DB7093</color>
+    <color name="papayawhip">#FFEFD5</color>
+    <color name="peachpuff">#FFDAB9</color>
+    <color name="period_title_color">#ffff9600</color>
+    <color name="peru">#CD853F</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="powderblue">#B0E0E6</color>
+    <color name="purple">#800080</color>
+    <color name="qian_hui_bg">#F9FAFA</color>
+    <color name="qian_qing_bg">#EDF4F3</color>
+    <color name="red">#FF0000</color>
+    <color name="rong_progress_green">#FF99E8D3</color>
+    <color name="rong_progress_red">#FFFC98A5</color>
+    <color name="rong_text_green">#FF90FFC6</color>
+    <color name="rong_text_red">#FFFF4B6A</color>
+    <color name="rosybrown">#BC8F8F</color>
+    <color name="royalblue">#4169E1</color>
+    <color name="saddlebrown">#8B4513</color>
+    <color name="salmon">#FA8072</color>
+    <color name="sandybrown">#F4A460</color>
+    <color name="seagreen">#2E8B57</color>
+    <color name="searchbar_edit_color">#ff808db1</color>
+    <color name="seashell">#FFF5EE</color>
+    <color name="sienna">#A0522D</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="skyblue">#87CEEB</color>
+    <color name="slateblue">#6A5ACD</color>
+    <color name="slategray">#708090</color>
+    <color name="slategrey">#708090</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="springgreen">#00FF7F</color>
+    <color name="steelblue">#4682B4</color>
+    <color name="tan">#D2B48C</color>
+    <color name="teal">#008080</color>
+    <color name="text_blue_color">#26A5F5</color>
+    <color name="text_normal_color">#AAAAAA</color>
+    <color name="thistle">#D8BFD8</color>
+    <color name="title_bg_color">#EFEFF0</color>
+    <color name="tomato">#FF6347</color>
+    <color name="toolbar_title_text_color">#ffffffff</color>
+    <color name="toolbar_title_text_shadow_color">#ff0a1c61</color>
+    <color name="tram">#00000000</color>
+    <color name="transparent_background">#00000000</color>
+    <color name="transparent_background2">#22000000</color>
+    <color name="transparent_backgrounds">#00000000</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="violet">#EE82EE</color>
+    <color name="wheat">#F5DEB3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="window_background">#fff1f1f1</color>
+    <color name="yellow">#FFFF00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <string name="Current_temperature">当前温度</string>
+    <string name="DeviceList">设备列表</string>
+    <string name="Drainage">排水</string>
+    <string name="Preset_temperature">预设温度</string>
+    <string name="TEMP">温度设置</string>
+    <string name="Waterinput">进水</string>
+    <string name="action_settings">Settings</string>
+    <string name="antibacteria">臭氧</string>
+    <string name="app_name">智能卫浴</string>
+    <string name="bang_zhu">当前应用缺少必要权限，请前往‘权限’，打开所需权限。</string>
+    <string name="cancel">取消</string>
+    <string name="chong_mingming">重命名</string>
+    <string name="dangqian_wangluo">当前网络：</string>
+    <string name="deng">灯</string>
+    <string name="erweima_fenxiang">分享设备</string>
+    <string name="erweima_youwu">二维码有误！</string>
+    <string name="exit_content">您即将退出应用程序</string>
+    <string name="fan">气泵</string>
+    <string name="fenxiang_tishi">扫描二维码，连接此设备</string>
+    <string name="fenzu_guanli">分组管理</string>
+    <string name="guangbo">光波</string>
+    <string name="heat">加热</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="kaishi_peizhi">开始配置</string>
+    <string name="kongqi">空气能加热</string>
+    <string name="kq">空气能加热</string>
+    <string name="li_xian">[离线]</string>
+    <string name="lianwang_peizhi">联网配置</string>
+    <string name="lianwang_tishi">首次使用，请将手机连接到当地局域网，并在下面空格输入局域网Wi-Fi密码</string>
+    <string name="light">水底灯</string>
+    <string name="liji_tiyan">立即体验</string>
+    <string name="mima_wei_shuru">未输入密码，是否继续配置？</string>
+    <string name="moren_buneng">默认分组不能重命名！</string>
+    <string name="multi_media">多媒体</string>
+    <string name="paiqishan">排气扇</string>
+    <string name="peizhi_tishi">请您输入当前局域网密码完成配置</string>
+    <string name="preset_start">预约启动</string>
+    <string name="preset_time">预约时间</string>
+    <string name="pump_1">水泵-1</string>
+    <string name="pump_2">水泵-2</string>
+    <string name="pump_3">水泵-3</string>
+    <string name="pump_4">循环泵</string>
+    <string name="qing_shao_hou">请稍后...</string>
+    <string name="qingshu_zhaoming">轻触照亮</string>
+    <string name="qingshuru_juyuwang_mima">请输入局域网密码</string>
+    <string name="qingshuru_shebei_xinmingcheng">请输入设备的新名称</string>
+    <string name="qingxian_lianjie_wifi">请先连接wifi！</string>
+    <string name="qu_xiao">取消</string>
+    <string name="quanbu_kongzhi">全部控制</string>
+    <string name="que_ding">确定</string>
+    <string name="sao_yi_sao">扫一扫</string>
+    <string name="saomiao_tishi">将二维码放入框内，即可自动扫描</string>
+    <string name="sd_light">水底灯</string>
+    <string name="set">总开关</string>
+    <string name="shanchu_shebei">删除设备</string>
+    <string name="she_zhi">设置</string>
+    <string name="shebei_liebiao">首页</string>
+    <string name="shebei_yicunzai">该设备已存在！</string>
+    <string name="shifou_shanchu_shebei">是否删除该设备？</string>
+    <string name="shuru_shebei_mima">请输入设备密码</string>
+    <string name="sousuo_shebei">搜索设备</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="system_hint">系统提示</string>
+    <string name="temp">预置温度</string>
+    <string name="tianjia_shebei">添加设备</string>
+    <string name="wan_cheng">完成</string>
+    <string name="water">进水/排水</string>
+    <string name="water_pump">水泵</string>
+    <string name="wenxin_tishi">温馨提示</string>
+    <string name="wo">我的</string>
+    <string name="xiang_ce">相册</string>
+    <string name="xiangfen_zhilv">GRS-DT3</string>
+    <string name="yanzheng_mima">验证密码</string>
+    <string name="yidong_fenzu">移动至</string>
+    <string name="yijian_peizhi">联网配置</string>
+    <string name="yuancheng_denglu_shibai">远程登录失败,请检查网络是否异常！</string>
+    <string name="zai_xian">[在线]</string>
+    <string name="zanwu_shebei">暂无设备</string>
+    <string name="zhengqi">蒸汽</string>
+    <string name="zhengzai_peizhi">发现设备: </string>
+    <string name="zhengzai_sousuo">正在搜索，请稍后\n发现设备: </string>
+    <string name="zhuang_tai">使用指南</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="Dialogstyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="LoadingDialogStyle" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent_backgrounds</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="dialog_style" parent="android:Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/tram</item>
+    </style>
+    <style name="num_style">
+         <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:background">@drawable/num_selector</item>
+        <item name="android:layout_width">0.0dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="sdw_79351b">
+        <item name="android:shadowColor">#ff79351b</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="text_15_ffffff_sdw" parent="@style/sdw_79351b">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/item_group_manage_bg">
+    
+    <ImageView android:id="@+id/imgICON"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_device_offline"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"/>
+    
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/imgICON"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp">
+        
+        <TextView android:id="@+id/tvDeviceName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="香氛之旅"
+            android:textColor="@color/mo_hui"
+            android:textSize="17sp"/>
+        
+        <LinearLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="5dp">
+            
+            <TextView android:id="@+id/tvState"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="@string/li_xian"
+		        android:textColor="@color/mo_hui"
+		        android:textSize="14sp"/>
+            
+            <TextView android:id="@+id/tvDeviceType"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="MAC:112233445566"
+	            android:textColor="@color/mo_hui"
+	            android:textSize="14sp"/>
+            
+        </LinearLayout>
+        
+    </LinearLayout>
+    
+    <ImageView android:id="@+id/imgLock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_lock"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"/>
+    
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/gif2"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"/>
+    
+    <ProgressBar android:id="@+id/progressBar"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:visibility="gone"/>
+    
+    
+    
+
+</RelativeLayout>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">智能卫浴</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- 引导界面 -->
+    <string name="liji_tiyan">Try It Now</string>
+
+    <!-- 主控界面 -->
+    <string name="shebei_liebiao">Home</string>
+    <string name="zhuang_tai">User guide</string>
+    <string name="wo">My</string>
+
+    <!-- 设备列表界面 -->
+    <string name="zanwu_shebei">No device</string>
+    <string name="yijian_peizhi"> Network \n configuration</string>
+    <string name="qu_xiao">Cancel</string>
+    <string name="que_ding">Confirm</string>
+    <string name="qing_shao_hou">Waitting...</string>
+    <string name="yanzheng_mima">Check the password</string>
+    <string name="shuru_shebei_mima">Please input your device password</string>
+    <string name="yidong_fenzu">Remove</string>
+    <string name="chong_mingming">Rename</string>
+    <string name="erweima_fenxiang">Share device</string>
+    <string name="shanchu_shebei">Delete device</string>
+    <string name="wenxin_tishi">Attention</string>
+    <string name="shifou_shanchu_shebei">Whether to delete the device.</string>
+    <string name="qingshuru_shebei_xinmingcheng">Please input new device name</string>
+    <string name="qingxian_lianjie_wifi">Please configure it after connected with the Wi-Fi</string>
+    <string name="fenzu_guanli">Group management</string>
+    <string name="tianjia_shebei">Add device</string>
+    <string name="quanbu_kongzhi">Control all</string>
+    <string name="zhengzai_sousuo"> Searching,please wait \n Discover the device: </string>
+    <string name="erweima_youwu">QR code recognition failed,please re-upload</string>
+    <string name="xiangfen_zhilv">GRS-DT3</string>
+    <string name="shebei_yicunzai">The device already exists</string>
+    <string name="yuancheng_denglu_shibai">Network is poor,please try again after checking.</string>
+    <string name="wan_cheng">Complete</string>
+
+    <!-- 扫描界面 -->
+    <string name="sao_yi_sao">Scan</string>
+    <string name="xiang_ce">Album</string>
+    <string name="saomiao_tishi">Align the QR Code with in the frame to scan</string>
+    <string name="qingshu_zhaoming">Highlight</string>
+
+
+    <!-- 二维码分享界面 -->
+    <string name="fenxiang_tishi">Scan the QR Code to connect device</string>
+
+    <!-- 一键配置界面 -->
+    <string name="lianwang_peizhi">Network configuration</string>
+    <string name="lianwang_tishi">For the first time,please connect your mobile phone with the local area network,and input the Wi-Fi password in the below blank.</string>
+    <string name="qingshuru_juyuwang_mima">Please enter the password</string>
+    <string name="mima_wei_shuru">Have not enter password,continue or not?</string>
+
+    <string name="zai_xian">[On-line]</string>
+    <string name="li_xian">[Off-line]</string>
+
+
+    <string name="exit_content">You will log off this app</string>
+
+
+    <!-- 配置界面 -->
+    <string name="peizhi_tishi">Please enter the password</string>
+    <string name="kaishi_peizhi">Start configuring</string>
+    <string name="dangqian_wangluo">current network：</string>
+    <string name="zhengzai_peizhi">Available devices: </string>
+
+
+    <string name="sousuo_shebei">Search for devices</string>
+
+    <string name="moren_buneng">Default grouping cannot be renamed!</string>
+    <string name="pump_1">Pump-1</string>
+    <string name="pump_2">Pump-2</string>
+    <string name="pump_3">Pump-3</string>
+    <string name="pump_4">Circ pump</string>
+    <string name="heat">Heating</string>
+    <string name="light">Light</string>
+    <string name="fan">FAN</string>
+    <string name="set">ON/OFF</string>
+    <string name="water_pump">Pump</string>
+    <string name="multi_media">Multi-Media</string>
+    <string name="antibacteria">Ozone</string>
+    <string name="water">Water input/Drainage</string>
+    <string name="temp">TEMP</string>
+    <string name="DeviceList">Device List</string>
+    <string name="Current_temperature">Current temperature</string>
+    <string name="Preset_temperature">Preset temperature</string>
+    <string name="preset_start">start</string>
+    <string name="preset_time">time</string>
+    <string name="TEMP">TEMP</string>
+    <string name="Drainage">Drainage</string>
+    <string name="Waterinput">Water input</string>
+    <string name="zhengqi">Steam</string>
+    <string name="paiqishan">Fan</string>
+    <string name="guangbo">Light Wave</string>
+    <string name="deng">Light</string>
+    <string name="kongqi">Air heating</string>
+
+    <string name="cancel">cancel</string>
+    <string name="system_hint">System hints</string>
+    <string name="she_zhi">Set up</string>
+    <string name="bang_zhu">The application is short of necessary permissions. Please go to permission to open the required permissions.</string>
+    <string name="kq">Air can heat</string>
+    <string name="sd_light">Lamp</string>
+
+</resources>

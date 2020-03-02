@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/mo_lv"
+    android:gravity="center_horizontal">
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/mo_lv">
+        
+        <ImageView  android:id="@+id/img_left"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/img_back"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"/>
+        
+        <TextView android:id="@+id/tvTitleName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/erweima_fenxiang"
+            android:textColor="@color/white"
+            android:layout_centerInParent="true"
+            android:textSize="20sp"/>
+        
+    </RelativeLayout>
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#fff"
+        android:gravity="center_horizontal">
+        
+        <TextView android:id="@+id/tvDeviceName"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="Device1"
+	        android:textSize="18sp"
+	        android:textColor="@color/mo_lv"
+	        android:layout_marginTop="20dp"/>
+	    
+	    <TextView android:id="@+id/tvDeviceType"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="MAC:12345678"
+	        android:textSize="15sp"
+	        android:textColor="@color/black1"
+	        android:layout_marginTop="10dp"/>
+	    
+	    <ImageView android:id="@+id/imgShare"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="10dp"/>
+	    
+	     <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/fenxiang_tishi"
+	        android:textSize="15sp"
+	        android:gravity="center"
+	        android:textColor="@color/black1"
+	        android:layout_marginTop="10dp"/>
+        
+        
+    </LinearLayout>
+    
+    
+
+</LinearLayout>

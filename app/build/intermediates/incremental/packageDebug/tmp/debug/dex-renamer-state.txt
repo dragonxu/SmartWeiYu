@@ -1,0 +1,4 @@
+#Fri Aug 09 14:57:12 CST 2019
+base.0=E\:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

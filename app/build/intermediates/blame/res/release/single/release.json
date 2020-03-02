@@ -1,0 +1,938 @@
+[
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_sz_deng.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_sz_deng.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_control_temper.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\activity_control_temper.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_devicelist.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\activity_devicelist.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_water_pump_s.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\water_pump_s.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_device_null.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_device_null.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_light_level.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_light_level.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\79b5dd63cb91cb9078a92c2e029f1951\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_use_nongdu_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_use_nongdu_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-en-hdpi_img_first_three.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-en-hdpi\\img_first_three.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_viewpager_two.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\viewpager_two.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_bg_radius.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\bg_radius.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_sound.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_sound.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_cbk_wheel_picker.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\cbk_wheel_picker.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_logo.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_logo.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_aux_title.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_aux_title.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_time_border.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\dialog_time_border.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_gb_kaiguan.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_gb_kaiguan.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_discharge.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\discharge.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\79b5dd63cb91cb9078a92c2e029f1951\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_heating.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\heating.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_item_group_bg.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\item_group_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_scan_zhao_ming.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_scan_zhao_ming.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_github.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\github.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_usb.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_usb.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_yg_shuidideng.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_yg_shuidideng.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_time_qing_finddevice_border.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\time_qing_finddevice_border.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_light.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\light.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_scan_content_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_scan_content_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_blue_title_offline.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_blue_title_offline.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_gb_chouyang.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_gb_chouyang.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_blank.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_blank.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-en-hdpi_img_first_one.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-en-hdpi\\img_first_one.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_group_select_right_bg.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\btn_group_select_right_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-en-hdpi_img_first_two.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-en-hdpi\\img_first_two.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_btn_do_it_bg_b.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\btn_do_it_bg_b.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_mo_scanner_main.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\mo_scanner_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_btn_select.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\dialog_btn_select.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_track.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\selector_track.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_top_two.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_top_two.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_multi.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\activity_multi.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_zidong_color.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_zidong_color.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\79b5dd63cb91cb9078a92c2e029f1951\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_time_hui_finddevice_border.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\time_hui_finddevice_border.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_left.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_left.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_back.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_back.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_gb.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_gb.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_volm_add.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\volm_add.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_to_right.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_to_right.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_myself_title.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_myself_title.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_lock.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_lock.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_control_yugang.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\activity_control_yugang.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_viewpager_four.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\viewpager_four.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_time_finddevice_border.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\dialog_time_finddevice_border.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_mode_bg_border.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\mode_bg_border.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_yg_zidongjinshui.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_yg_zidongjinshui.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_use_fengshan_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_use_fengshan_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_flow_progressbg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\flow_progressbg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_start.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_start.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_multi_auto.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_multi_auto.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_tv_finddevice_border.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\tv_finddevice_border.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_viewpager_three.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\viewpager_three.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_multi_right.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_multi_right.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_white_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_white_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_item_device.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\item_device.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_vol_sub.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\vol_sub.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_steam.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\steam.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\79b5dd63cb91cb9078a92c2e029f1951\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\79b5dd63cb91cb9078a92c2e029f1951\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_yg_shuibeng.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_yg_shuibeng.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_device_share.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\activity_device_share.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_pump.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\pump.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\raw_press_key_sound.wav.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\raw\\press_key_sound.wav"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_zhizhen1.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\zhizhen1.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_window_area_hint.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\window_area_hint.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_water.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\water.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_popup_window_find_config_device.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\popup_window_find_config_device.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_seek_thumb_sound.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_seek_thumb_sound.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_guangbo.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\layout_guangbo.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_p_r.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_p_r.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_bottom.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\layout_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_group_select_left_bg.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\btn_group_select_left_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_loading_dialog.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_paishui.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_paishui.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_window_add_menu.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\window_add_menu.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_finddevice_border.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\dialog_finddevice_border.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_aux.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_aux.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_multi_jian.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_multi_jian.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_seekbar_thumb_sound.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\seekbar_thumb_sound.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_cbk_wheel_default_inner_text.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\cbk_wheel_default_inner_text.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_multi_left.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_multi_left.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_use_fulizi_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_use_fulizi_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\79b5dd63cb91cb9078a92c2e029f1951\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_scan_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_scan_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_multi_blue.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_multi_blue.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_first_three.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_first_three.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_qicai_left.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_qicai_left.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_flood_light.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\flood_light.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_item_group_manage_bg.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\item_group_manage_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_first_two.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_first_two.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_app_logo.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\app_logo.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_gb_deng.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_gb_deng.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_switch_on.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_switch_on.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_multi_fm.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_multi_fm.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_finddevice_border_week_true.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\dialog_finddevice_border_week_true.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_temper_yuan.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_temper_yuan.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_zidong_pause.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_zidong_pause.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_sz.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_sz.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_control_shizheng.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\activity_control_shizheng.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_top_three.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_top_three.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_zhuanhuan_left.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_zhuanhuan_left.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_welcome.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_usb_title.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_usb_title.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_gb_guangbo.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_gb_guangbo.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_zidong_run.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_zidong_run.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_control_main.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\activity_control_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_thumb.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\selector_thumb.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_set_nong_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_set_nong_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\raw_mo_scanner_beep.ogg.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\raw\\mo_scanner_beep.ogg"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_load.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\load.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_radio_no.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_radio_no.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_yg_paopaoyu.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_yg_paopaoyu.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\79b5dd63cb91cb9078a92c2e029f1951\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_multi_jia.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_multi_jia.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_use_guzhang_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_use_guzhang_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_device_offline.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_device_offline.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\79b5dd63cb91cb9078a92c2e029f1951\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_dengdai.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\icon_dengdai.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_qiehuan.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_qiehuan.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_first_four.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_first_four.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_finddevice_border_week_false.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\dialog_finddevice_border_week_false.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_item_right.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_item_right.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_guangbo_bg.jpg.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_guangbo_bg.jpg"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_device_null.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_device_null.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_mode_time_border.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\mode_time_border.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_temp_c.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_temp_c.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_kq.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_kq.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_set_temp.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\set_temp.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\79b5dd63cb91cb9078a92c2e029f1951\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_to_left.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_to_left.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_circulation.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\circulation.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_temp_f.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_temp_f.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_blue_title.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_blue_title.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_seek_thumb_red_max.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_seek_thumb_red_max.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_device_online.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_device_online.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_yugang.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\layout_yugang.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_shizheng.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\layout_shizheng.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_welcome_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_welcome_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_seek_thumb_yellow.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_seek_thumb_yellow.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_null_device.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_null_device.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_fm_title.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_fm_title.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_aboutdevice_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_aboutdevice_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_floodlight.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\floodlight.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_use_weihu_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_use_weihu_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_temp_c_no.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_temp_c_no.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_seekbar_progress_sound.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\seekbar_progress_sound.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_control_guangbo.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\activity_control_guangbo.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_sz_jiare.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_sz_jiare.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_group_select_bg.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\btn_group_select_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_discharge_.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\discharge_.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_github1.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\github1.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_bluetooth_no.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_bluetooth_no.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_shizheng_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_shizheng_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_finddevice_border.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\finddevice_border.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_do_it_bg.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\btn_do_it_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_gb_fengshan.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_gb_fengshan.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_seek_progress_hui.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_seek_progress_hui.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_yg_jiare.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_yg_jiare.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_top_one.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_top_one.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_cbk_dialog_pick_time.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\cbk_dialog_pick_time.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_baoxiu_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_baoxiu_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_usb_no.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_usb_no.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_num_selector.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\num_selector.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_wait_gif.gif.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_wait_gif.gif"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_switch_off.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_switch_off.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ozone.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\ozone.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_bluetooth.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_bluetooth.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_yugang_bg.jpg.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_yugang_bg.jpg"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_seek_thumb_red.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_seek_thumb_red.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_temp_f_no.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_temp_f_no.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_multi_aux.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_multi_aux.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_set_nong_bar.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_set_nong_bar.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_view_multi_usb.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\view_multi_usb.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_window_area_set_value.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\window_area_set_value.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_aux_no.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_aux_no.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_mem.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_mem.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_dialog_time_confirm.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable\\dialog_time_confirm.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_temp_progress_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_temp_progress_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_setup.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\setup.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_item_menu_select.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\item_menu_select.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_window_select_time.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\window_select_time.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_use_moshi_bg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_use_moshi_bg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_airkiss.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\activity_airkiss.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_radio.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_radio.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-zh-hdpi_img_first_one.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-zh-hdpi\\img_first_one.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_exit.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_music.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\music.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_yg.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_yg.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\layout_viewpager_one.xml.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\layout\\viewpager_one.xml"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_img_seek_progress_blue.png.flat",
+        "source": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\src\\main\\res\\drawable-hdpi\\img_seek_progress_blue.png"
+    },
+    {
+        "merged": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]

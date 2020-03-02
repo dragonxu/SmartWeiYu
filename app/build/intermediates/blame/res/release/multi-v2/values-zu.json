@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android_Studio_Project_YinGong\\JiaoJie_YinGong\\SmartWeiYu-ALi-M50-Android\\project\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zu\\values-zu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8b133a2e521a4f9f0df0a7d6edaea231\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

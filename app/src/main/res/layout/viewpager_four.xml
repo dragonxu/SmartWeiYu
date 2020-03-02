@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/img_first_four">
+    
+    <Button
+        android:id="@+id/vGotoLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="80dp" 
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:background="@drawable/btn_do_it_bg_b"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rl_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/rl_2"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+
+        <ImageView
+            android:id="@+id/imgLeft"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/water" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/imgLeft"
+            android:text="@string/Waterinput"
+            android:textColor="#02a2ca"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/imgSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/img_switch_off" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="80dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp">
+
+
+        <ImageView
+            android:id="@+id/imgLeft1"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/img_paishui" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="11dp"
+            android:layout_toEndOf="@+id/imgLeft1"
+            android:text="@string/Drainage"
+            android:textColor="#02a2ca"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/imgSwitch1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/img_switch_off" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

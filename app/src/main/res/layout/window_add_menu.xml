@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlParent"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/dialog_finddevice_border"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <ListView
+                android:id="@+id/lvMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:cacheColorHint="#00000000"
+                android:divider="#ccc"
+                android:dividerHeight="0.5dp"
+                android:fadingEdge="none"
+                android:listSelector="#00000000"
+                android:scrollbars="none" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvConfirm"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/dialog_finddevice_border"
+            android:gravity="center"
+            android:text="@string/qu_xiao"
+            android:textColor="@color/black1" />
+
+    </LinearLayout>
+
+</ScrollView>

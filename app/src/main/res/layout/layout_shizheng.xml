@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <LinearLayout android:id="@+id/llKaiGuan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <ImageView android:id="@+id/imgKaiGuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/setup"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/set"
+            android:layout_marginTop="5dp"
+            android:textColor="#00369c"/>
+
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/llJiaRe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <ImageView android:id="@+id/imgJiaRe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/steam"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/zhengqi"
+            android:layout_marginTop="5dp"
+            android:textColor="#99196b"/>
+
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/llDeng"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <ImageView android:id="@+id/imgDeng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/floodlight"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/light"
+            android:layout_marginTop="5dp"
+            android:textColor="#d55a01"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout android:id="@+id/llFengShan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <ImageView android:id="@+id/imgFengShan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/discharge"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FAN"
+            android:layout_marginTop="5dp"
+            android:textColor="#09743f"/>
+
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/llYinYue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <ImageView android:id="@+id/imgYinYue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/music"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Multi-Media"
+            android:layout_marginTop="5dp"
+            android:textColor="#820c86"/>
+
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/llChouYang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginLeft="10dp">
+
+        <ImageView android:id="@+id/imgChouYang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ozone"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Antibacteria"
+            android:layout_marginTop="5dp"
+            android:textColor="#0e4ba7"/>
+
+    </LinearLayout>
+
+    <LinearLayout android:id="@+id/llWenDu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="15dp">
+
+        <ImageView android:id="@+id/imgWenDu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/set_temp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TEMP"
+            android:layout_marginTop="5dp"
+            android:textColor="#b90d0d"/>
+
+    </LinearLayout>
+
+</LinearLayout>

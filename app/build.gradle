@@ -1,0 +1,79 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '28.0.2'
+
+    tasks.withType(JavaCompile) {
+        options.encoding = "UTF-8"
+    }
+
+
+    defaultConfig {
+        applicationId "com.example.smartbathroom"
+        minSdkVersion 19
+        targetSdkVersion 26
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+    aaptOptions {
+        cruncherEnabled = false
+        useNewCruncher = false
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+    /*android{
+        compileOptions.encoding = "GBK"
+
+    }*/
+
+}
+
+dependencies {
+    implementation 'com.android.support:support-v4:26.1.0'
+    //implementation 'com.google.code.gson:gson:2.3.1'
+    implementation files('libs/alicloud-android-beacon-1.0.1.jar')
+    implementation files('libs/alicloud-android-ut-5.1.0.jar')
+    implementation files('libs/alicloud-android-utils-1.1.1.jar')
+    implementation files('libs/android-async-http-1.4.6.jar')
+    implementation files('libs/android-gif-drawable.jar')
+    implementation files('libs/baidumapapi_base_v3_7_3.jar')
+    implementation files('libs/baidumapapi_cloud_v3_7_3.jar')
+    implementation files('libs/baidumapapi_map_v3_7_3.jar')
+    implementation files('libs/baidumapapi_radar_v3_7_3.jar')
+    implementation files('libs/baidumapapi_search_v3_7_3.jar')
+    implementation files('libs/baidumapapi_util_v3_7_3.jar')
+    implementation files('libs/crittercism_v3_0_3_sdkonly.jar')
+    implementation files('libs/GifView.jar')
+    implementation files('libs/locSDK_6.13.jar')
+    implementation files('libs/utdid4all-1.1.5.3_proguard.jar')
+    implementation files('libs/xlink-wifi-official-sdk-v3-21546.jar')
+    implementation files('libs/zxing.jar')
+    implementation files('libs/gson-2.2.4.jar')
+    implementation files('libs/commons-codec-1.9.jar')
+    implementation files('libs/commons-logging-1.2.jar')
+    implementation files('libs/fluent-hc-4.5.jar')
+    implementation files('libs/httpclient-4.5.jar')
+    implementation files('libs/httpclient-cache-4.5.jar')
+    implementation files('libs/httpclient-win-4.5.jar')
+    implementation files('libs/httpcore-4.4.1.jar')
+    implementation files('libs/httpmime-4.5.jar')
+    implementation files('libs/jna-4.1.0.jar')
+    implementation files('libs/jna-platform-4.1.0.jar')
+}

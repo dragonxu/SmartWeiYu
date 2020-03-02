@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能卫浴</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- 引导界面 -->
+    <string name="liji_tiyan">立即体验</string>
+
+    <!-- 主控界面 -->
+    <string name="shebei_liebiao">首页</string>
+    <string name="zhuang_tai">使用指南</string>
+    <string name="wo">我的</string>
+
+    <!-- 设备列表界面 -->
+    <string name="zanwu_shebei">暂无设备</string>
+    <string name="yijian_peizhi">联网配置</string>
+    <string name="qu_xiao">取消</string>
+    <string name="que_ding">确定</string>
+    <string name="qing_shao_hou">请稍后...</string>
+    <string name="yanzheng_mima">验证密码</string>
+    <string name="shuru_shebei_mima">请输入设备密码</string>
+    <string name="yidong_fenzu">移动至</string>
+    <string name="chong_mingming">重命名</string>
+    <string name="erweima_fenxiang">分享设备</string>
+    <string name="shanchu_shebei">删除设备</string>
+    <string name="wenxin_tishi">温馨提示</string>
+    <string name="shifou_shanchu_shebei">是否删除该设备？</string>
+    <string name="qingshuru_shebei_xinmingcheng">请输入设备的新名称</string>
+    <string name="qingxian_lianjie_wifi">请先连接wifi！</string>
+    <string name="fenzu_guanli">分组管理</string>
+    <string name="tianjia_shebei">添加设备</string>
+    <string name="quanbu_kongzhi">全部控制</string>
+    <string name="zhengzai_sousuo">正在搜索，请稍后\n发现设备: </string>
+    <string name="sousuo_shebei">搜索设备</string>
+    <string name="erweima_youwu">二维码有误！</string>
+    <string name="xiangfen_zhilv">GRS-DT3</string>
+    <string name="shebei_yicunzai">该设备已存在！</string>
+    <string name="yuancheng_denglu_shibai">远程登录失败,请检查网络是否异常！</string>
+    <string name="wan_cheng">完成</string>
+
+
+    <!-- 扫描界面 -->
+    <string name="sao_yi_sao">扫一扫</string>
+    <string name="xiang_ce">相册</string>
+    <string name="saomiao_tishi">将二维码放入框内，即可自动扫描</string>
+    <string name="qingshu_zhaoming">轻触照亮</string>
+
+
+    <!-- 二维码分享界面 -->
+    <string name="fenxiang_tishi">扫描二维码，连接此设备</string>
+
+    <!-- 一键配置界面 -->
+
+    <string name="lianwang_tishi">首次使用，请将手机连接到当地局域网，并在下面空格输入局域网Wi-Fi密码</string>
+    <string name="qingshuru_juyuwang_mima">请输入局域网密码</string>
+    <string name="mima_wei_shuru">未输入密码，是否继续配置？</string>
+
+
+    <string name="zai_xian">[在线]</string>
+    <string name="li_xian">[离线]</string>
+
+
+    <string name="exit_content">您即将退出应用程序</string>
+
+
+    <!-- 配置界面 -->
+    <string name="peizhi_tishi">请您输入当前局域网密码完成配置</string>
+    <string name="kaishi_peizhi">开始配置</string>
+    <string name="dangqian_wangluo">当前网络：</string>
+    <string name="zhengzai_peizhi">发现设备: </string>
+    <string name="lianwang_peizhi">联网配置</string>
+
+
+    <string name="moren_buneng">默认分组不能重命名！</string>
+    <string name="pump_1">水泵-1</string>
+    <string name="pump_2">水泵-2</string>
+    <string name="pump_3">水泵-3</string>
+    <string name="pump_4">循环泵</string>
+    <string name="heat">加热</string>
+    <string name="light">水底灯</string>
+    <string name="fan">气泵</string>
+    <string name="set">总开关</string>
+    <string name="water_pump">水泵</string>
+    <string name="multi_media">多媒体</string>
+    <string name="antibacteria">臭氧</string>
+    <string name="water">进水/排水</string>
+    <string name="temp">预置温度</string>
+    <string name="DeviceList">设备列表</string>
+    <string name="Current_temperature">当前温度</string>
+    <string name="Preset_temperature">预设温度</string>
+    <string name="preset_start">预约启动</string>
+    <string name="preset_time">预约时间</string>
+    <string name="TEMP">温度设置</string>
+    <string name="Drainage">排水</string>
+    <string name="Waterinput">进水</string>
+    <string name="zhengqi">蒸汽</string>
+    <string name="paiqishan">排气扇</string>
+    <string name="deng">灯</string>
+    <string name="guangbo">光波</string>
+    <string name="kongqi">空气能加热</string>
+
+    <string name="cancel">取消</string>
+    <string name="system_hint">系统提示</string>
+    <string name="she_zhi">设置</string>
+    <string name="bang_zhu">当前应用缺少必要权限，请前往‘权限’，打开所需权限。</string>
+    <string name="kq">空气能加热</string>
+    <string name="sd_light">水底灯</string>
+</resources>
+
+

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/mo_lv"
+    android:id="@+id/llParent">
+    
+     <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/mo_lv">
+        
+         <ImageView android:id="@+id/imgBack"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/img_back"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"/>
+        
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tianjia_shebei"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_centerInParent="true"/>
+        
+        <Button android:id="@+id/btnFinish"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/wan_cheng"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:layout_alignParentRight="true"
+            android:background="#00000000"/>
+        
+    </RelativeLayout>
+    
+     <LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:orientation="vertical"
+         android:background="#fff">
+         
+         <TextView 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/peizhi_tishi"
+	        android:textColor="@color/black1"
+	        android:textSize="12sp"
+	        android:padding="10dp"/>
+         
+         
+         <TextView android:id="@+id/tvNowSSID"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="当前网络：TP-LINK_8888"
+             android:textColor="@color/mo_lv"
+             android:layout_marginTop="30dp"
+             android:layout_marginLeft="10dp"/>
+	    
+	    <EditText
+	        android:id="@+id/edPwd"
+	        android:layout_width="match_parent"
+	        android:layout_height="50dp"
+	        android:layout_margin="10dp"
+	        android:gravity="center_vertical|left"
+	        android:singleLine="true"
+	        android:hint="@string/qingshuru_juyuwang_mima"
+	        android:text=""
+	        android:textColor="#000"
+	        android:textColorHint="#ccc"
+	        android:paddingLeft="10dp"
+	        android:background="@drawable/finddevice_border"/>
+	    
+	
+	    <Button
+	        android:id="@+id/tvConfig"
+	        android:layout_width="match_parent"
+	        android:layout_height="45dp"
+	        android:layout_marginLeft="30dp"
+	        android:layout_marginRight="30dp"
+	        android:layout_marginTop="10dp"
+	        android:gravity="center"
+	        android:text="@string/kaishi_peizhi"
+	        android:textColor="#fff"
+	        android:textSize="18sp"
+	        android:background="@drawable/btn_do_it_bg" />
+         
+     </LinearLayout>
+     
+    
+    
+</LinearLayout>

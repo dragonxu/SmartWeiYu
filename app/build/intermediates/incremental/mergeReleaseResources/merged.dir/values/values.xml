@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aliceblue">#F0F8FF</color>
+    <color name="antiquewhite">#FAEBD7</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="aquamarine">#7FFFD4</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="base_color">#18b4ed</color>
+    <color name="base_color_press">#398e9a</color>
+    <color name="beige">#F5F5DC</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="black">#000000</color>
+    <color name="black1">#3d3d3d</color>
+    <color name="blanchedalmond">#FFEBCD</color>
+    <color name="blue">#0000FF</color>
+    <color name="blueviolet">#8A2BE2</color>
+    <color name="border_comp_icon">#ff88bbff</color>
+    <color name="bright_foreground_dark">#ffffffff</color>
+    <color name="bright_foreground_dark_disabled">#80ffffff</color>
+    <color name="bright_foreground_dark_inverse">#ff000000</color>
+    <color name="bright_foreground_light">#ff000000</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    <color name="bright_foreground_light_inverse">#ffffffff</color>
+    <color name="brown">#A52A2A</color>
+    <color name="burlywood">#DEB887</color>
+    <color name="cadetblue">#5F9EA0</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorProgress">#C0DEDF</color>
+    <color name="coral">#FF7F50</color>
+    <color name="cornflowerblue">#6495ED</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="crimson">#DC143C</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="darkblue">#00008B</color>
+    <color name="darkcyan">#008B8B</color>
+    <color name="darkgoldenrod">#B8860B</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="darkgreen">#006400</color>
+    <color name="darkkhaki">#BDB76B</color>
+    <color name="darkmagenta">#8B008B</color>
+    <color name="darkolivegreen">#556B2F</color>
+    <color name="darkorange">#FF8C00</color>
+    <color name="darkorchid">#9932CC</color>
+    <color name="darkred">#8B0000</color>
+    <color name="darksalmon">#E9967A</color>
+    <color name="darkseagreen">#8FBC8F</color>
+    <color name="darkslateblue">#483D8B</color>
+    <color name="darkslategray">#2F4F4F</color>
+    <color name="darkslategrey">#2F4F4F</color>
+    <color name="darkturquoise">#00CED1</color>
+    <color name="darkviolet">#9400D3</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="deepskyblue">#00BFFF</color>
+    <color name="dim_foreground_dark">#ffffffff</color>
+    <color name="dim_foreground_dark_disabled">#80bebebe</color>
+    <color name="dim_foreground_dark_inverse">#ff000000</color>
+    <color name="dim_foreground_dark_inverse_disabled">#80323232</color>
+    <color name="dim_foreground_light">#ff000000</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light_inverse">#ffbebebe</color>
+    <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    <color name="dimgray">#696969</color>
+    <color name="dimgrey">#696969</color>
+    <color name="dodgerblue">#1E90FF</color>
+    <color name="firebrick">#B22222</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="forestgreen">#228B22</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="g666666">#666666</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="ge6e6e6">#e6e6e6</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <color name="gold">#FFD700</color>
+    <color name="goldenrod">#DAA520</color>
+    <color name="gray">#808080</color>
+    <color name="gray_white">#10000000</color>
+    <color name="green">#008000</color>
+    <color name="greenyellow">#ADFF2F</color>
+    <color name="grey">#808080</color>
+    <color name="half_transparent">#b0000000</color>
+    <color name="hint_foreground_dark">#ff808080</color>
+    <color name="hint_foreground_light">#ff808080</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="hotpink">#FF69B4</color>
+    <color name="indianred">#CD5C5C</color>
+    <color name="indigo">#4B0082</color>
+    <color name="item_group_press_bg_hui">#D3D3D3</color>
+    <color name="item_press_bg_hui">#F7F7F7</color>
+    <color name="item_select">#EAEAEA</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="lavenderblush">#FFF0F5</color>
+    <color name="lawngreen">#7CFC00</color>
+    <color name="lemonchiffon">#FFFACD</color>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="lightcoral">#F08080</color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="lightgoldenrodyellow">#FAFAD2</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="lightgreen">#90EE90</color>
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="lightpink">#FFB6C1</color>
+    <color name="lightsalmon">#FFA07A</color>
+    <color name="lightseagreen">#20B2AA</color>
+    <color name="lightskyblue">#87CEFA</color>
+    <color name="lightslategray">#778899</color>
+    <color name="lightslategrey">#778899</color>
+    <color name="lightsteelblue">#B0C4DE</color>
+    <color name="lightyellow">#FFFFE0</color>
+    <color name="lime">#00FF00</color>
+    <color name="limegreen">#32CD32</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="list_devider">#ffffffff</color>
+    <color name="list_item_text2_color1">#ffcc0000</color>
+    <color name="list_item_text2_color2">#ff9096ae</color>
+    <color name="list_item_text_color">#ff32444d</color>
+    <color name="list_item_text_shadow_color">#ffffffff</color>
+    <color name="little_black">#b0000000</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="maroon">#800000</color>
+    <color name="mediumaquamarine">#66CDAA</color>
+    <color name="mediumblue">#0000CD</color>
+    <color name="mediumorchid">#BA55D3</color>
+    <color name="mediumpurple">#9370DB</color>
+    <color name="mediumseagreen">#3CB371</color>
+    <color name="mediumslateblue">#7B68EE</color>
+    <color name="mediumspringgreen">#00FA9A</color>
+    <color name="mediumturquoise">#48D1CC</color>
+    <color name="mediumvioletred">#C71585</color>
+    <color name="midnightblue">#191970</color>
+    <color name="mintcream">#F5FFFA</color>
+    <color name="mistyrose">#FFE4E1</color>
+    <color name="mo_hui">#999999</color>
+    <color name="mo_lv">#00b2ff</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="mulit_select">#0d98ac</color>
+    <color name="mulit_select_no">#353535</color>
+    <color name="navajowhite">#FFDEAD</color>
+    <color name="navy">#000080</color>
+    <color name="news_page_title">#ff003399</color>
+    <color name="news_page_title_shadow">#ffffffff</color>
+    <color name="no_hui">#ccc</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="num_bg">#698aa2</color>
+    <color name="num_bg_p">#1ea6d2</color>
+    <color name="ok_lv">#3ABAE4</color>
+    <color name="oldlace">#FDF5E6</color>
+    <color name="olive">#808000</color>
+    <color name="olivedrab">#6B8E23</color>
+    <color name="orange">#FFA500</color>
+    <color name="orangered">#FF4500</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="page_background">#fff1f1f1</color>
+    <color name="page_text_color">#ff000000</color>
+    <color name="palegoldenrod">#EEE8AA</color>
+    <color name="palegreen">#98FB98</color>
+    <color name="paleturquoise">#AFEEEE</color>
+    <color name="palevioletred">#DB7093</color>
+    <color name="papayawhip">#FFEFD5</color>
+    <color name="peachpuff">#FFDAB9</color>
+    <color name="period_title_color">#ffff9600</color>
+    <color name="peru">#CD853F</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="powderblue">#B0E0E6</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="progress_lv">#FF00B395</color>
+    <color name="purple">#800080</color>
+    <color name="qian_hui_bg">#F9FAFA</color>
+    <color name="qian_qing_bg">#EDF4F3</color>
+    <color name="red">#FF0000</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="rong_progress_green">#FF99E8D3</color>
+    <color name="rong_progress_red">#F0AA3F</color>
+    <color name="rong_text_green">#FF90FFC6</color>
+    <color name="rong_text_red">#FFFF4B6A</color>
+    <color name="rosybrown">#BC8F8F</color>
+    <color name="royalblue">#4169E1</color>
+    <color name="saddlebrown">#8B4513</color>
+    <color name="salmon">#FA8072</color>
+    <color name="sandybrown">#F4A460</color>
+    <color name="seagreen">#2E8B57</color>
+    <color name="searchbar_edit_color">#ff808db1</color>
+    <color name="seashell">#FFF5EE</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="sienna">#A0522D</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="skyblue">#87CEEB</color>
+    <color name="slateblue">#6A5ACD</color>
+    <color name="slategray">#708090</color>
+    <color name="slategrey">#708090</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="springgreen">#00FF7F</color>
+    <color name="steelblue">#4682B4</color>
+    <color name="tan">#D2B48C</color>
+    <color name="teal">#008080</color>
+    <color name="text_blue_color">#26A5F5</color>
+    <color name="text_normal_color">#AAAAAA</color>
+    <color name="thistle">#D8BFD8</color>
+    <color name="title_bg_color">#EFEFF0</color>
+    <color name="tomato">#FF6347</color>
+    <color name="toolbar_title_text_color">#ffffffff</color>
+    <color name="toolbar_title_text_shadow_color">#ff0a1c61</color>
+    <color name="tram">#00000000</color>
+    <color name="transparent_background">#00000000</color>
+    <color name="transparent_background2">#22000000</color>
+    <color name="transparent_backgrounds">#00000000</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="violet">#EE82EE</color>
+    <color name="wheat">#F5DEB3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="window_background">#fff1f1f1</color>
+    <color name="yellow">#FFFF00</color>
+    <declare-styleable name="ArcProgress">
+        <attr format="dimension" name="borderWidth"/>
+        <attr format="color" name="unprogresColor"/>
+        <attr format="color" name="progressColor"/>
+        <attr format="dimension" name="tickWidth"/>
+        <attr format="integer" name="tickDensity"/>
+        <attr format="boolean" name="bgShow"/>
+        <attr format="dimension" name="radius"/>
+        <attr format="color" name="arcbgColor"/>
+        <attr format="integer" name="degree"/>
+        <attr format="boolean" name="arcCapRound"/>
+        <attr format="enum" name="progressStyle">
+            <enum name="tick" value="1"/>
+            <enum name="arc" value="0"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="DatePicker">
+        <attr format="color" name="picker_text_color"/>
+        <attr format="color" name="picker_select_textColor"/>
+        <attr format="color" name="picker_split"/>
+        <attr format="dimension" name="picker_split_height"/>
+    </declare-styleable>
+    <declare-styleable name="FontFamily"><attr format="string" name="fontProviderAuthority"/><attr format="string" name="fontProviderPackage"/><attr format="string" name="fontProviderQuery"/><attr format="reference" name="fontProviderCerts"/><attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr><attr format="integer" name="fontProviderFetchTimeout">
+          
+            <enum name="forever" value="-1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="FontFamilyFont"><attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr><attr format="reference" name="font"/><attr format="integer" name="fontWeight"/></declare-styleable>
+    <declare-styleable name="LoweTextView">  
+        <!-- 比例=宽/高 -->  
+        <attr format="float" name="ratio"/>  
+    </declare-styleable>
+    <declare-styleable name="TriangleViewStyle">
+        <attr format="reference|color" name="triangleColor"/>
+        <attr name="shapeArrow">
+
+            <!-- show event in current month. -->
+            <enum name="UP" value="0"/>
+            <!-- show event in current month and preious month. -->
+            <enum name="DOWN" value="1"/>
+            <!-- show event in current month and next month. -->
+            <enum name="RIGHT" value="2"/>
+            <!-- show event in all month. -->
+            <enum name="LEFT" value="3"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="WaveProgressView">
+        <attr format="integer" name="progress_max"/>
+        <attr format="integer" name="progress"/>
+        <attr format="float" name="speed"/>
+        <attr format="float" name="wave_width"/>
+        <attr format="float" name="wave_height"/>
+        <attr format="color" name="wave_color"/>
+        <attr format="color" name="wave_bg_color"/>
+        <attr format="color" name="stroke_color"/>
+        <attr format="string" name="main_text"/>
+        <attr format="color" name="main_text_color"/>
+        <attr format="dimension" name="main_text_size"/>
+        <attr format="string" name="hint_text"/>
+        <attr format="color" name="hint_color"/>
+        <attr format="dimension" name="hint_size"/>
+        <attr format="dimension" name="text_space"/>
+    </declare-styleable>
+    <declare-styleable name="WheelFullDatePickerStyle">
+
+        <!-- 顯示民國年 -->
+        <attr format="boolean" name="showTaiwanYear"/>
+        <!-- 小於0的數字前面加0 -->
+        <attr format="boolean" name="addZeroIfSmallThanTen"/>
+        <!-- 選單日期是否即時顯示 -->
+        <attr format="boolean" name="setCurrentTimeVisible"/>
+        <!-- 能不能設定今天以前的時間 -->
+        <attr format="boolean" name="canSetUpPastTime"/>
+        <!-- 能不能設定今天以後的時間 -->
+        <attr format="boolean" name="canSetUpFutureTime"/>
+        <!-- 是否顯示年月日字串 -->
+        <attr format="boolean" name="showDateLastString"/>
+    </declare-styleable>
+    <declare-styleable name="WheelSinglePickerStyle">
+
+        <!-- 如果滾輪樣式是純粹顯示文字，滾輪的顯示行數 預設為一行 -->
+        <attr format="integer" name="visibleLine"/>
+        <!-- 如果滾輪樣式是純粹顯示文字，兩邊滾輪的文字大小 格式為dip -->
+        <attr format="integer" name="singleTextSize"/>
+    </declare-styleable>
+    <declare-styleable name="WheelTimerStyle">
+        <!-- 是否總是顯示兩個滾輪 -->
+        <attr name="timeMode">
+            <!-- 選擇模式 -->
+            <enum name="select" value="0"/>
+            <!-- 倒數模式 -->
+            <enum name="countDown" value="1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="WheelTwoDimensionPickerStyle">
+
+        <!-- 是否總是顯示兩個滾輪 -->
+        <attr format="boolean" name="alwaysShowTwoWheel"/>
+        <!-- 如果滾輪樣式是純粹顯示文字，左邊滾輪的顯示行數 預設為一行 -->
+        <attr format="integer" name="leftWheelVisibleLine"/>
+        <!-- 如果滾輪樣式是純粹顯示文字，右邊滾輪的顯示行數 預設為一行 -->
+        <attr format="integer" name="rightWheelVisibleLine"/>
+        <!-- 如果滾輪樣式是純粹顯示文字，兩邊滾輪的文字大小 格式為dip -->
+        <attr format="integer" name="wheelTwoDimensionTextSize"/>
+        <!-- 是否即時顯示所選資料 -->
+        <attr format="boolean" name="isCurrentSelectVisible"/>
+    </declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="Current_temperature">Current temperature</string>
+    <string name="DeviceList">Device List</string>
+    <string name="Drainage">Drainage</string>
+    <string name="Preset_temperature">Preset temperature</string>
+    <string name="TEMP">TEMP</string>
+    <string name="Waterinput">Water input</string>
+    <string name="action_settings">Settings</string>
+    <string name="antibacteria">Ozone</string>
+    <string name="app_name">智能卫浴</string>
+    <string name="bang_zhu">The application is short of necessary permissions. Please go to permission to open the required permissions.</string>
+    <string name="cancel">cancel</string>
+    <string name="chong_mingming">Rename</string>
+    <string name="dangqian_wangluo">current network：</string>
+    <string name="deng">Light</string>
+    <string name="erweima_fenxiang">Share device</string>
+    <string name="erweima_youwu">QR code recognition failed,please re-upload</string>
+    <string name="exit_content">You will log off this app</string>
+    <string name="fan">FAN</string>
+    <string name="fenxiang_tishi">Scan the QR Code to connect device</string>
+    <string name="fenzu_guanli">Group management</string>
+    <string name="guangbo">Light Wave</string>
+    <string name="heat">Heating</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="kaishi_peizhi">Start configuring</string>
+    <string name="kongqi">Air heating</string>
+    <string name="kq">Air can heat</string>
+    <string name="li_xian">[Off-line]</string>
+    <string name="lianwang_peizhi">Network configuration</string>
+    <string name="lianwang_tishi">For the first time,please connect your mobile phone with the local area network,and input the Wi-Fi password in the below blank.</string>
+    <string name="light">Light</string>
+    <string name="liji_tiyan">Try It Now</string>
+    <string name="mima_wei_shuru">Have not enter password,continue or not?</string>
+    <string name="moren_buneng">Default grouping cannot be renamed!</string>
+    <string name="multi_media">Multi-Media</string>
+    <string name="paiqishan">Fan</string>
+    <string name="peizhi_tishi">Please enter the password</string>
+    <string name="preset_start">start</string>
+    <string name="preset_time">time</string>
+    <string name="pump_1">Pump-1</string>
+    <string name="pump_2">Pump-2</string>
+    <string name="pump_3">Pump-3</string>
+    <string name="pump_4">Circ pump</string>
+    <string name="qing_shao_hou">Waitting...</string>
+    <string name="qingshu_zhaoming">Highlight</string>
+    <string name="qingshuru_juyuwang_mima">Please enter the password</string>
+    <string name="qingshuru_shebei_xinmingcheng">Please input new device name</string>
+    <string name="qingxian_lianjie_wifi">Please configure it after connected with the Wi-Fi</string>
+    <string name="qu_xiao">Cancel</string>
+    <string name="quanbu_kongzhi">Control all</string>
+    <string name="que_ding">Confirm</string>
+    <string name="sao_yi_sao">Scan</string>
+    <string name="saomiao_tishi">Align the QR Code with in the frame to scan</string>
+    <string name="sd_light">Lamp</string>
+    <string name="set">ON/OFF</string>
+    <string name="shanchu_shebei">Delete device</string>
+    <string name="she_zhi">Set up</string>
+    <string name="shebei_liebiao">Home</string>
+    <string name="shebei_yicunzai">The device already exists</string>
+    <string name="shifou_shanchu_shebei">Whether to delete the device.</string>
+    <string name="shuru_shebei_mima">Please input your device password</string>
+    <string name="sousuo_shebei">Search for devices</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="system_hint">System hints</string>
+    <string name="temp">TEMP</string>
+    <string name="tianjia_shebei">Add device</string>
+    <string name="wan_cheng">Complete</string>
+    <string name="water">Water input/Drainage</string>
+    <string name="water_pump">Pump</string>
+    <string name="wenxin_tishi">Attention</string>
+    <string name="wo">My</string>
+    <string name="xiang_ce">Album</string>
+    <string name="xiangfen_zhilv">GRS-DT3</string>
+    <string name="yanzheng_mima">Check the password</string>
+    <string name="yidong_fenzu">Remove</string>
+    <string name="yijian_peizhi"> Network \n configuration</string>
+    <string name="yuancheng_denglu_shibai">Network is poor,please try again after checking.</string>
+    <string name="zai_xian">[On-line]</string>
+    <string name="zanwu_shebei">No device</string>
+    <string name="zhengqi">Steam</string>
+    <string name="zhengzai_peizhi">Available devices: </string>
+    <string name="zhengzai_sousuo"> Searching,please wait \n Discover the device: </string>
+    <string name="zhuang_tai">User guide</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="Dialogstyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="LoadingDialogStyle" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent_backgrounds</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Media"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Time.Media"/>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="TextAppearance.Compat.Notification.Title.Media"/>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+    <style name="ali_feedback_contentoverlay" parent="@android:style/Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:screenOrientation">portrait</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="dialog_style" parent="android:Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/tram</item>
+    </style>
+    <style name="num_style">
+         <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:background">@drawable/num_selector</item>
+        <item name="android:layout_width">0.0dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="sdw_79351b">
+        <item name="android:shadowColor">#ff79351b</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="text_15_ffffff_sdw" parent="@style/sdw_79351b">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/img_scan_bg" >
+    
+    <SurfaceView
+        android:id="@+id/mo_scanner_preview_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:background="@drawable/img_scan_bg" />
+
+    <com.example.smartouwei.view.ViewfinderView
+        android:id="@+id/mo_scanner_viewfinder_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/img_scan_bg" />
+    
+    <ImageView android:id="@+id/imgContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_scan_content_bg"
+        android:layout_centerInParent="true"
+        android:visibility="invisible"/>
+    
+    <LinearLayout android:id="@+id/mo_scanner_light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_alignBottom="@+id/imgContent"
+        android:layout_marginBottom="20dp"
+        android:visibility="gone">
+        
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/img_scan_zhao_ming"/>
+        
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/qingshu_zhaoming"
+            android:textColor="#A1C5BE"
+            android:gravity="center"
+            android:layout_marginTop="5dp"/>
+        
+    </LinearLayout>
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/saomiao_tishi"
+        android:textColor="#fff"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/imgContent"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="30dp"/>
+    
+    <RelativeLayout android:id="@+id/rlTitle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/mo_lv">
+        
+        <ImageView  android:id="@+id/mo_scanner_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/img_back"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"/>
+        
+        <TextView android:id="@+id/tvTitleName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sao_yi_sao"
+            android:textColor="#fff"
+            android:layout_centerInParent="true"
+            android:textSize="20sp"/>
+        
+        <TextView android:id="@+id/mo_scanner_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/xiang_ce"
+            android:textColor="#fff"
+            android:textSize="17sp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"/>
+        
+    </RelativeLayout>
+
+</RelativeLayout>

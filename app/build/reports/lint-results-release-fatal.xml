@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 3.2.0">
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;btn_do_it_bg_b&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\btn_do_it_bg_b.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_aboutdevice_bg&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_aboutdevice_bg.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_baoxiu_bg&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_baoxiu_bg.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_first_four&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_first_four.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_first_one&quot; in drawable-en-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-en-hdpi\img_first_one.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_first_one&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_first_one.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_first_three&quot; in drawable-en-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-en-hdpi\img_first_three.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_first_three&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_first_three.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_first_two&quot; in drawable-en-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-en-hdpi\img_first_two.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_first_two&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_first_two.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_myself_title&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_myself_title.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_use_fengshan_bg&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_use_fengshan_bg.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_use_fulizi_bg&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_use_fulizi_bg.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_use_guzhang_bg&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_use_guzhang_bg.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_use_moshi_bg&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_use_moshi_bg.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_use_nongdu_bg&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_use_nongdu_bg.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_use_weihu_bg&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_use_weihu_bg.png"/>
+    </issue>
+
+    <issue
+        id="MissingDefaultResource"
+        severity="Fatal"
+        message="The drawable &quot;img_welcome_bg&quot; in drawable-zh-hdpi has no declaration in the base `drawable` folder or in a `drawable-`*density*`dpi` folder; this can lead to crashes when the drawable is queried in a configuration that does not match this qualifier"
+        category="Correctness"
+        priority="6"
+        summary="Missing Default"
+        explanation="If a resource is only defined in folders with qualifiers like `-land` or `-en`, and there is no default declaration in the base folder (`layout` or `values` etc), then the app will crash if that resource is accessed on a device where the device is in a configuration missing the given qualifier.&#xA;&#xA;As a special case, drawables do not have to be specified in the base folder; if there is a match in a density folder (such as `drawable-mdpi`) that image will be used and scaled. Note however that if you  only specify a drawable in a folder like `drawable-en-hdpi`, the app will crash in non-English locales.&#xA;&#xA;There may be scenarios where you have a resource, such as a `-fr` drawable, which is only referenced from some other resource with the same qualifiers (such as a `-fr` style), which itself has safe fallbacks. However, this still makes it possible for somebody to accidentally reference the drawable and crash, so it is safer to create a default dummy fallback in the base folder. Alternatively, you can suppress the issue by adding `tools:ignore=&quot;MissingDefaultResource&quot;` on the element.&#xA;&#xA;(This scenario frequently happens with string translations, where you might delete code and the corresponding resources, but forget to delete a translation. There is a dedicated issue id for that scenario, with the id `ExtraTranslation`.)">
+        <location
+            file="E:\AndroidDemo\project\app\src\main\res\drawable-zh-hdpi\img_welcome_bg.png"/>
+    </issue>
+
+</issues>
